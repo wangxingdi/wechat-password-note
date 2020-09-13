@@ -1,0 +1,13 @@
+@import './animate.wxss';
+
+page {
+  --main-fontColor: #333333;
+  --main-fontSize: 34rpx;
+  --themeColor: #88BC9D;
+}
+
+.over-ellipsis {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
