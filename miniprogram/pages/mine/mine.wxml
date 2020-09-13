@@ -35,7 +35,7 @@
   </view>
   <view class="card-line" catchtap="onAbout">
     <image class="line-icon" src="./../../images/mine-about.png" />
-    <button class="line-btn" hover-class="btn-hover">关于『有本密码』</button>
+    <button class="line-btn" hover-class="btn-hover">关于『小小密码本』</button>
     <image class="line-right" src="./../../images/mine-right.png" />
   </view>
 </view>

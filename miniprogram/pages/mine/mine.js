@@ -22,7 +22,7 @@ Page({
     }
   },
   onGithub() {
-    const url = 'https://github.com/arleyGuoLei/wechat-1password'
+    const url = 'https://github.com/wangxingdi/wechat-password-note'
     wx.setClipboardData({
       data: url,
       success() {

@@ -428,7 +428,7 @@ export default class extends Base { // 继承上面的base
 
 ## 开源地址
 
-🐈github: [https://github.com/arleyGuoLei/wechat-1password](https://github.com/arleyGuoLei/wechat-1password)
+🐈github: [https://github.com/wangxingdi/wechat-password-note](https://github.com/wangxingdi/wechat-password-note)
 
 如果觉得项目有帮助，麻烦给个star ~
 
@@ -442,6 +442,6 @@ export default class extends Base { // 继承上面的base
 
 ## 赞赏作者
 
-微信扫码赞赏作者 ❤ ~
+如果您觉得我做的不错，微信扫码赞赏作者 ❤ ~
 
-![赞赏码](./admire.jpg)
+![赞赏码](./admire-me.jpg)
